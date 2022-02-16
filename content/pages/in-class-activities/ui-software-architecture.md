@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: UI Software Architecture
 uid: b101ce27-19e1-b207-31ff-35904236fdbb
@@ -33,7 +36,7 @@ Attach a Listener
 
 Add jQuery to your web page, which you can do with the following line of code:
 
-<script src="http://code.jquery.com/jquery-1.5.min.js"></script>
+\<script src="http://code.jquery.com/jquery-1.5.min.js">\</script>
 
 Attach an event listener to your Send button that calls console.log() to display the text area's contents in your developer console. You will find it useful to:
 
@@ -47,16 +50,16 @@ Modify the View Tree
 
 Now we want to display a log of sent messages in the UI itself. First add the following HTML code to the end of your UI, so that you have a place to put the messages:
 
-<div id="sent" style="font-style: italic">
-    <div>Sent messages appear here.</div>
-</div>
+\<div id="sent" style="font-style: italic">
+    \<div>Sent messages appear here.\</div>
+\</div>
 
 Enhance your event listener on the Send button so that it appends the textarea's contents to this list. For example, if the textarea has "message 1" in it, then pressing Send should change the page as follows:
 
-<div id="sent" style="font-style: italic">
-    <div>Sent messages appear here.</div>
-    <div>message 1</div>
-</div>
+\<div id="sent" style="font-style: italic">
+    \<div>Sent messages appear here.\</div>
+    \<div>message 1\</div>
+\</div>
 
 There are several ways to do this. You may find the following jQuery methods useful:
 

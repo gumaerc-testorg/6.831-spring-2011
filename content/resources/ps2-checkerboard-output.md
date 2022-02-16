@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to assignments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-831-user-interface-design-and-implementation-spring-2011/61ccb1addfbdab199033f4d0a70d04c9_ps2-checkerboard-output.zip
+file: /media/courses/6-831-user-interface-design-and-implementation-spring-2011/61ccb1addfbdab199033f4d0a70d04c9_ps2-checkerboard-output.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: ps2-checkerboard-output.zip
 uid: 61ccb1ad-dfbd-ab19-9033-f4d0a70d04c9

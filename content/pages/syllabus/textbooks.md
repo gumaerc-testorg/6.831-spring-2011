@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 9e6792e8-09a4-ac54-0f33-c22c3649cf99
 title: Textbooks
 uid: 499ad5c4-bb47-b4f7-21f4-366b7b010200
