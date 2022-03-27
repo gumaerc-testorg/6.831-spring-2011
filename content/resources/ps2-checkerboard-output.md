@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1dbc0a30-1c05-cbc3-1693-c0f1c7957e3f
 resourcetype: Other
 title: ps2-checkerboard-output.zip
 uid: 61ccb1ad-dfbd-ab19-9033-f4d0a70d04c9

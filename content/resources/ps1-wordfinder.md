@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1dbc0a30-1c05-cbc3-1693-c0f1c7957e3f
 resourcetype: Other
 title: ps1-wordfinder.zip
 uid: c4981219-ba23-6105-ceac-96d994c17fdb
