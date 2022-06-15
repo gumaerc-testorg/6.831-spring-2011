@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In-class activity on ways to do background processing in graphical user
+  interfaces.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

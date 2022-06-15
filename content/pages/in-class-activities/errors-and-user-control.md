@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In-class activity on the undo models used in single-user text editing.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

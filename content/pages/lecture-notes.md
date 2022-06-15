@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE NOTES
 Usability
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mit6_831s11_lec01))
+({{% resource_link 40197883-e8b9-a240-4ca5-df7224ccc878 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Usability
 Learnability
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit6_831s11_lec02))
+({{% resource_link c74391b4-bc3e-58e0-25b3-17b61ef5a0ef "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Learnability
 Visibility
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit6_831s11_lec03))
+({{% resource_link a6b07e95-2da5-5dea-e19d-4b13fdd98d8c "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Visibility
 Efficiency
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit6_831s11_lec04))
+({{% resource_link 821f3aa6-58f9-ea1e-bcd0-6dafe7a5251d "PDF - 2.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Efficiency
 Errors and user control
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit6_831s11_lec05))
+({{% resource_link c128f3f3-0504-b11b-d9cf-b27e85e2324e "PDF - 2.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Errors and user control
 User-centered design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit6_831s11_lec06))
+({{% resource_link 47d49264-9c79-21fd-7302-e67ef6504f87 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ User-centered design
 Task analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit6_831s11_lec07))
+({{% resource_link e9395ea0-3b04-87fd-1df5-ccf1cd03775c "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Task analysis
 Generating designs
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mit6_831s11_lec08))
+({{% resource_link 899affdd-8804-fff0-721c-59e94f057f11 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Generating designs
 User interface (UI) software architecture
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit6_831s11_lec09))
+({{% resource_link d2a0ed39-4779-27d9-e585-a9115c68d2ff "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ User interface (UI) software architecture
 Layout
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec10))
+({{% resource_link 348aae46-0686-5fc0-63a9-8c5aba3a1a91 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Layout
 Output
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec11))
+({{% resource_link 52035627-6618-83c1-dadf-eab2cd3e6828 "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Output
 Input
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec12))
+({{% resource_link 891e29ba-7ed9-a9db-4bc7-b54ee880c103 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Input
 User testing
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec13))
+({{% resource_link e439a4a5-3817-5371-008c-3e492ed59443 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ User testing
 Controlled experiments
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec14))
+({{% resource_link 7e721676-5788-69e3-3403-137f45d6926f "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Controlled experiments
 Experiment analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit6_831s11_lec15))
+({{% resource_link c8a06013-0406-a64c-c861-ccdd3fa951c9 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Experiment analysis
 Web-scale research methods
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec16))
+({{% resource_link 9af4c7ff-650f-7fc5-afb2-65fecb0b23b1 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Web-scale research methods
 Prototyping
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit6_831s11_lec17))
+({{% resource_link 0cb56de7-b984-8074-75bb-fe76ccba8423 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Prototyping
 Graphic design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit6_831s11_lec18))
+({{% resource_link bb4015a0-5869-c5d1-8386-92fc018a800a "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Graphic design
 Information visualization
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec19))
+({{% resource_link 4f232b3c-bb24-1f09-68cf-17d0c03302d8 "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ Information visualization
 Color design and typography
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit6_831s11_lec20))
+({{% resource_link 2412b042-ee46-1941-4920-7e7e0b390deb "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Color design and typography
 Accessibility
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mit6_831s11_lec21))
+({{% resource_link 5b521dc9-64af-8bf2-ce4a-139ce8ed1606 "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ Accessibility
 Internationalization
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec22))
+({{% resource_link 44df52e2-2805-5b70-da5c-6b294f5c078a "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +299,7 @@ Internationalization
 Heuristic evaluation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec23))
+({{% resource_link 1851746a-e1e6-b86d-4143-c4cd9fe4f264 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +311,7 @@ Heuristic evaluation
 Animation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec24))
+({{% resource_link ab378988-3469-066a-6725-89ccbe359f87 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +323,7 @@ Animation
 Input/output technology
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB]({{< baseurl >}}/resources/mit6_831s11_lec25))
+({{% resource_link 563c8570-4114-2a91-c12f-a0fa1cce1e4b "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

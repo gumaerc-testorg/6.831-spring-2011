@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In-class activity on the principles and pitfalls of color design and
+  typography.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In-class activity on analyzing experiment results by applying the t test.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In-class activity on the problems of internationalization, specifically
+  the wide variations in languages and scripts; bidirectional text; and the differences
+  between character sets, fonts, and character encodings.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

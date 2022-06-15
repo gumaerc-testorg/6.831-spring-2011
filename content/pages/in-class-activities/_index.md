@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides selected in-class activities from the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-Class Activities
@@ -26,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Usability]({{< baseurl >}}/pages/in-class-activities/usability)
+{{% resource_link 7d457fc6-e5b5-fd97-7b1b-bf4a748d362a "Usability" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +36,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Learnability]({{< baseurl >}}/pages/in-class-activities/learnability)
+{{% resource_link c6e1f503-8ae3-cffc-ac32-14ec9cf6b6d5 "Learnability" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +45,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Visibility]({{< baseurl >}}/pages/in-class-activities/visibility)
+{{% resource_link 90b7b366-51b0-0169-9c59-bb598d7ebdd9 "Visibility" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +54,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Efficiency]({{< baseurl >}}/pages/in-class-activities/efficiency)
+{{% resource_link 436a6df8-716e-9aca-1593-7503a10e439d "Efficiency" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +63,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Errors and user control]({{< baseurl >}}/pages/in-class-activities/errors-and-user-control)
+{{% resource_link a7778c17-1c5a-1d0d-6272-9eb74689cdd6 "Errors and user control" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[User-centered design]({{< baseurl >}}/pages/in-class-activities/user-centered-design)
+{{% resource_link 5584105a-584a-1d86-db1c-636193e8c98e "User-centered design" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +81,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Task analysis]({{< baseurl >}}/pages/in-class-activities/task-analysis)
+{{% resource_link 1c9ae285-87b7-55df-3b1c-2af5c1e1536c "Task analysis" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Generating designs]({{< baseurl >}}/pages/in-class-activities/generating-designs)
+{{% resource_link ede52b5a-726e-d9aa-c526-8c39f5abc16a "Generating designs" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[User interface (UI) software architecture]({{< baseurl >}}/pages/in-class-activities/ui-software-architecture)
+{{% resource_link b101ce27-19e1-b207-31ff-35904236fdbb "User interface (UI) software architecture" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +126,7 @@ Output
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Input]({{< baseurl >}}/pages/in-class-activities/input)
+{{% resource_link e33273d8-0343-4f6e-27b9-c5d6431974c6 "Input" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +135,7 @@ Output
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[User testing]({{< baseurl >}}/pages/in-class-activities/user-testing)
+{{% resource_link f0d1549f-ac45-06b5-21ea-07697cfadde9 "User testing" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +153,7 @@ Controlled experiments
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Experiment analysis]({{< baseurl >}}/pages/in-class-activities/experiment-analysis)
+{{% resource_link 5e588338-ce4d-650c-1e7a-7f84a7985842 "Experiment analysis" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +171,7 @@ Web-scale research methods
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Prototyping]({{< baseurl >}}/pages/in-class-activities/prototyping)
+{{% resource_link f6538245-0497-94fa-5e4a-9761c83533e0 "Prototyping" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +180,7 @@ Web-scale research methods
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Graphic design]({{< baseurl >}}/pages/in-class-activities/graphic-design)
+{{% resource_link a54071c4-5f96-caff-040e-59579bc92c1c "Graphic design" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +189,7 @@ Web-scale research methods
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Information visualization]({{< baseurl >}}/pages/in-class-activities/information-visualization)
+{{% resource_link 7623ce1f-044e-42a2-6d98-350f286973be "Information visualization" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +198,7 @@ Web-scale research methods
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Color design and typography]({{< baseurl >}}/pages/in-class-activities/color-design-and-typography)
+{{% resource_link a8e39d06-ec18-90ae-7f22-3e5cf0165120 "Color design and typography" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +207,7 @@ Web-scale research methods
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Accessibility]({{< baseurl >}}/pages/in-class-activities/accessibility)
+{{% resource_link a5ea8d6f-a7e1-18a7-a751-60cac3169d0c "Accessibility" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +216,7 @@ Web-scale research methods
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Internationalization]({{< baseurl >}}/pages/in-class-activities/internationalization)
+{{% resource_link 55ad3551-4572-102b-d6bc-ab4bc7849322 "Internationalization" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +225,7 @@ Web-scale research methods
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Heuristic evaluation]({{< baseurl >}}/pages/in-class-activities/heuristic-evaluation)
+{{% resource_link c4c7214c-abb4-3c6b-e3b6-0141ba9b2622 "Heuristic evaluation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +243,7 @@ Animation
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Input/output technology]({{< baseurl >}}/pages/in-class-activities/input-output-technology)
+{{% resource_link ee31b351-36ae-e855-708e-233bdef03182 "Input/output technology" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

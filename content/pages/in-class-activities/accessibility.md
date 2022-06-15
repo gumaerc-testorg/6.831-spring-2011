@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In-class activity on what it's like to use a web page with screen reader
+  software.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

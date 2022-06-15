@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In-class activity on the user-centered design process.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities
@@ -9,7 +10,7 @@ title: User-centered Design
 uid: 5584105a-584a-1d86-db1c-636193e8c98e
 ---
 
-![A photo of the MIT classroom in which 6.831 was taught.]({{< resource_file 8f71c12b-ec6b-4381-d1e1-a5a840cd1386 >}}) This activity is intended to get you thinking about the user-centered design process, by conducting a very lightweight UCD process on a few problems in our classroom.
+{{< resource 8f71c12b-ec6b-4381-d1e1-a5a840cd1386 >}} This activity is intended to get you thinking about the user-centered design process, by conducting a very lightweight UCD process on a few problems in our classroom.
 
 1\. Screen Locations
 --------------------

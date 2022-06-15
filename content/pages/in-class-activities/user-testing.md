@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In-class activity to practice watching for critical incidents indicative
+  of usability problems.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities

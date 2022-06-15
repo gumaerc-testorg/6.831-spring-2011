@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, textbooks, collaboration, grading, and differences between
+  the undergraduate and graduate versions of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +43,7 @@ We will learn how to conduct empirical research involving novel user interfaces 
 Textbooks
 ---------
 
-There is no required textbook for this course, but a list of [Recommended Textbooks]({{< baseurl >}}/pages/syllabus/textbooks) is available for students who wish to further explore the subject.
+There is no required textbook for this course, but a list of {{% resource_link 499ad5c4-bb47-b4f7-21f4-366b7b010200 "Recommended Textbooks" %}} is available for students who wish to further explore the subject.
 
 Collaboration
 -------------

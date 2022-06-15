@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In-class activity on graphic design techniques and concepts: the squint
+  test, simplicity and contrast, visual variables, and Gestalt principles. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Activities
