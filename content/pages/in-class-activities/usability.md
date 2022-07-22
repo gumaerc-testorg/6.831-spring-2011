@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: In-class activity on what it means for an interface to be usable.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Usability
 uid: 7d457fc6-e5b5-fd97-7b1b-bf4a748d362a
 ---
 
-![An illustration of a combination lock.]({{< resource_file 0d7ce90d-be05-439f-2be0-682bcf834586 >}})  
+{{< resource 0d7ce90d-be05-439f-2be0-682bcf834586 >}}  
 © Source unknown. All  
 rights reserved. This  
 content is excluded from  

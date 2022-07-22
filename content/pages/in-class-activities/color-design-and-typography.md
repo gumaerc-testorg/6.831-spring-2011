@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: In-class activity on the principles and pitfalls of color design and
+  typography.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Color Design and Typography
 uid: a8e39d06-ec18-90ae-7f22-3e5cf0165120

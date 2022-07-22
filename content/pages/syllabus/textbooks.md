@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides a list of recommended books and references for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 9e6792e8-09a4-ac54-0f33-c22c3649cf99
 title: Textbooks
 uid: 499ad5c4-bb47-b4f7-21f4-366b7b010200
@@ -9,7 +14,7 @@ uid: 499ad5c4-bb47-b4f7-21f4-366b7b010200
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back To: [Syllabus]({{< baseurl >}}/pages/syllabus)
+« Back To: {{% resource_link 9e6792e8-09a4-ac54-0f33-c22c3649cf99 "Syllabus" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Miller, Rupert G. _Beyond Anova: Basics of Applied Statistics_. John Wiley & Son
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back To: [Syllabus]({{< baseurl >}}/pages/syllabus)
+« Back To: {{% resource_link 9e6792e8-09a4-ac54-0f33-c22c3649cf99 "Syllabus" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

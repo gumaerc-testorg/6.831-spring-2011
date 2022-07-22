@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: In-class activity on ways to do background processing in graphical user
+  interfaces.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Input/Output Technology
 uid: ee31b351-36ae-e855-708e-233bdef03182

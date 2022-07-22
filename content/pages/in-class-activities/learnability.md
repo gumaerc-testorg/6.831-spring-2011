@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: In-class activity on how to design interfaces for learnability.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Learnability
 uid: c6e1f503-8ae3-cffc-ac32-14ec9cf6b6d5
 ---
 
-![A photo of a traditional dial thermostat.]({{< resource_file bb67a0a9-89a6-6903-a0c8-92634d11d0b8 >}})  
+{{< resource bb67a0a9-89a6-6903-a0c8-92634d11d0b8 >}}  
 © Source unknown. All rights  
 reserved. This content is  
 excluded from our Creative  

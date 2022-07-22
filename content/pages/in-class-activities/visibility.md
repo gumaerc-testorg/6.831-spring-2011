@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: In-class activity on visibility in design.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Visibility
 uid: 90b7b366-51b0-0169-9c59-bb598d7ebdd9
 ---
 
-![An illustration of two games of Checkers, one on either side of a box labeled 'model'.]({{< resource_file 73394b09-01f2-19e8-b7ad-a3a5970665eb >}})  
+{{< resource 73394b09-01f2-19e8-b7ad-a3a5970665eb >}}  
 © Source unknown. All  
 rights reserved. This  
 content is excluded from  

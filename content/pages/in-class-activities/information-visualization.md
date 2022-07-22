@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: In-class activity information visualization.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Information Visualization
 uid: 7623ce1f-044e-42a2-6d98-350f286973be

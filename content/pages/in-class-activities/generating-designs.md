@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: In-class activity on designing user interfaces.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: In-Class Activities
+parent_type: CourseSection
 parent_uid: 09700340-607a-547c-da2b-20b3c55a84bd
 title: Generating Designs
 uid: ede52b5a-726e-d9aa-c526-8c39f5abc16a
 ---
 
-![A photo of the MIT classroom in which 6.831 was taught.]({{< resource_file 8f71c12b-ec6b-4381-d1e1-a5a840cd1386 >}}) The purpose of this activity is to practice designing UIs by sketching. Your goal is to design an interface for controlling the LCD projectors in a classroom like this one. Here's some relevant information from analysis.
+{{< resource 8f71c12b-ec6b-4381-d1e1-a5a840cd1386 >}} The purpose of this activity is to practice designing UIs by sketching. Your goal is to design an interface for controlling the LCD projectors in a classroom like this one. Here's some relevant information from analysis.
 
 ### Hardware
 

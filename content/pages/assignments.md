@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments, programming assignments,
+  and research assignments of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1dbc0a30-1c05-cbc3-1693-c0f1c7957e3f
 ---
@@ -27,7 +32,7 @@ ASSIGNMENT FILES
 HW1: UI Hall of Fame and Shame
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_hw01))
+({{% resource_link 4d7011b5-bf80-daf0-b470-f8a5e18cb737 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +41,7 @@ HW1: UI Hall of Fame and Shame
 HW2: Heuristic Evaluation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_hw02))
+({{% resource_link c4835e88-2349-ca3a-8877-1fe06a109362 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,10 +72,10 @@ SUPPORTING FILES
 PS1: Implementing an HTML/Javascript Application
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_ps01))
+({{% resource_link 2d4b6315-86e4-112a-4627-8d666f4b0c12 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/ps1-wordfinder)) (The ZIP file contains: 2 .js files, 1 .html file and 2 .json files.)
+({{% resource_link c4981219-ba23-6105-ceac-96d994c17fdb "ZIP" %}}) (The ZIP file contains: 2 .js files, 1 .html file and 2 .json files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,10 +84,10 @@ PS1: Implementing an HTML/Javascript Application
 PS2: Output
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_ps02))
+({{% resource_link c9153a1d-0422-a414-c926-ffffd4033b06 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/ps2-checkerboard-output)) (The ZIP file contains: 1 .project file, 3 .js files, 1 .html file, 1 .ccs file, and 4 .png files.)
+({{% resource_link 61ccb1ad-dfbd-ab19-9033-f4d0a70d04c9 "ZIP" %}}) (The ZIP file contains: 1 .project file, 3 .js files, 1 .html file, 1 .ccs file, and 4 .png files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +96,7 @@ PS2: Output
 PS3: Input
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_ps03))
+({{% resource_link 6f4b3f19-b52e-8af0-32f4-116b27741d84 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -122,7 +127,7 @@ ASSIGNMENT FILES
 RS1: Experiment Implementation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_rs01))
+({{% resource_link b6900cf1-d826-55cf-a082-6ad947d4f262 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +136,7 @@ RS1: Experiment Implementation
 RS2: Data Collection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_rs02))
+({{% resource_link db11cd8a-5aeb-5297-8bf6-defde7b48e1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +145,7 @@ RS2: Data Collection
 RS3: Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_831s11_rs03))
+({{% resource_link 97814570-c318-70b1-d042-fc3520cd7626 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
