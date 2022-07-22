@@ -5,6 +5,7 @@ file: /courses/6-831-user-interface-design-and-implementation-spring-2011/61ccb1
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2-checkerboard-output.zip
 uid: 61ccb1ad-dfbd-ab19-9033-f4d0a70d04c9
 ---
 This resource contains information related to assignments.
-

@@ -5,6 +5,7 @@ file: /courses/6-831-user-interface-design-and-implementation-spring-2011/c49812
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1-wordfinder.zip
 uid: c4981219-ba23-6105-ceac-96d994c17fdb
 ---
 This resource contains information related to assignments.
-
