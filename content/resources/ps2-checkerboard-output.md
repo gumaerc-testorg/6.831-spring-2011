@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to assignments.
-file: /ol-ocw-studio-app/courses/6-831-user-interface-design-and-implementation-spring-2011/61ccb1addfbdab199033f4d0a70d04c9_ps2-checkerboard-output.zip
+file: /courses/6-831-user-interface-design-and-implementation-spring-2011/61ccb1addfbdab199033f4d0a70d04c9_ps2-checkerboard-output.zip
 file_size: 26195
 file_type: application/zip
 learning_resource_types:
