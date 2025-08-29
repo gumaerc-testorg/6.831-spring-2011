@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to assignments.
-file: /courses/6-831-user-interface-design-and-implementation-spring-2011/c4981219ba236105ceac96d994c17fdb_ps1-wordfinder.zip
+file: /ol-ocw-studio-app/courses/6-831-user-interface-design-and-implementation-spring-2011/c4981219ba236105ceac96d994c17fdb_ps1-wordfinder.zip
 file_size: 173868
 file_type: application/zip
 learning_resource_types:
