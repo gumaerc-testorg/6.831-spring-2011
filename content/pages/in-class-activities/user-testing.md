@@ -15,5 +15,5 @@ The purpose of this activity is to practice watching for critical incidents indi
 
 The videos below show users interacting with subway-ticket vending machines. Watch them carefully and identify moments that indicate problems in learnability, efficiency, or error prevention.
 
-*   [New York City subway](http://www.youtube.com/watch?v=mfCQbZR-nhk)
-*   [Washington DC metro](http://www.youtube.com/watch?v=7TOsJCA7DHw)
+*   {{% resource_link "4151ba6a-c81a-41fe-9686-9ce470044520" "New York City subway" %}}
+*   {{% resource_link "e4701865-976e-4b6a-9aa3-20b28080946c" "Washington DC metro" %}}

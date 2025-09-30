@@ -18,8 +18,8 @@ Judging Color Schemes
 
 Choose a web page whose color scheme you **like or dislike**. If none come to mind, here are a few suggestions:
 
-*   [Ask.com](http://www.ask.com)
-*   [Google Advanced Search](http://www.google.com/advanced_search?hl=en)
+*   {{% resource_link "630b1a14-30ee-42e1-b7fc-efe861667200" "Ask.com" %}}
+*   {{% resource_link "fe53c3f2-7953-4151-b66d-a0088570df63" "Google Advanced Search" %}}
 
 **Write down the main foreground and background colors it uses.** Use simple terms like "dark red" or "pale blue". Qualitatively speaking, what are the hue, saturation, and value of each one?
 
@@ -27,12 +27,12 @@ Choose a web page whose color scheme you **like or dislike**. If none come to mi
 
 **Evaluate it with a squint test.** What colors "pop out"? Are these colors used for parts of the page that _should_ attract notice?
 
-**Evaluate it for color-blind users.** Use [VisCheck](http://www.vischeck.net/vis-check/) to look at the web page as a deuteranope would see it. (VisCheck can translate simple web pages straight from a URL, but for complex pages you may need to take a screenshot and submit it as an image.) How does it fare now for legibility and squint test?
+**Evaluate it for color-blind users.** Use {{% resource_link "170f5d9e-fc68-4838-97a1-e57a41395679" "VisCheck" %}} to look at the web page as a deuteranope would see it. (VisCheck can translate simple web pages straight from a URL, but for complex pages you may need to take a screenshot and submit it as an image.) How does it fare now for legibility and squint test?
 
 Exploring Typefaces
 -------------------
 
-For this part, you'll need to use Mozilla Firefox with the [Firebug extension](http://www.getfirebug.com/) installed, so that you can tweak properties of font and spacing dynamically and see their effects.
+For this part, you'll need to use Mozilla Firefox with the {{% resource_link "16f3b386-2de5-4da7-a5e1-ed3ecc288bb7" "Firebug extension" %}} installed, so that you can tweak properties of font and spacing dynamically and see their effects.
 
 Open up Firebug by clicking on the little insect icon in the lower right corner of the Firefox window, and use its Inspect feature to locate the paragraph below:
 

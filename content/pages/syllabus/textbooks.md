@@ -47,16 +47,16 @@ Shneiderman, Ben, and Catherine Plaisant. _Designing the User Interface: Strateg
 
 Dix, Alan J., Janet E. Finlay, et al. _Human-Computer Interaction_. 2nd ed. Prentice Hall, 1998. ISBN: 9780132398640.
 
-Olsen, Dan R. _Developing User Interfaces (Interactive Technologies)_. Morgan Kaufmann, 1998. ISBN: 9781558604186. \[Preview with [Google Books](http://books.google.com/books?id=aSfZMN9QhNwC&pg=PAfrontcover)\]
+Olsen, Dan R. _Developing User Interfaces (Interactive Technologies)_. Morgan Kaufmann, 1998. ISBN: 9781558604186. \[Preview with {{% resource_link "8564b02d-ee0b-4a96-bd80-1addfcfef010" "Google Books" %}}\]
 
 Additional Resources
 --------------------
 
 Tufte, Edward R. _The Visual Display of Quantitative Information_. Graphics Press, 1983. ISBN: 9780318029924.
 
-Raskin, Jef. _The Humane Interface: New Directions for Designing Interactive Systems_. Addison-Wesley Professional, 2000. ISBN: 9780201379372. \[Preview with [Google Books](http://books.google.com/books?id=D39vjmLfO3kC&pg=PAfrontcover)\]
+Raskin, Jef. _The Humane Interface: New Directions for Designing Interactive Systems_. Addison-Wesley Professional, 2000. ISBN: 9780201379372. \[Preview with {{% resource_link "f1c17db1-c26d-42a3-8d1c-17180b065d95" "Google Books" %}}\]
 
-Jhonson, Jeff. _GUI Bloopers: Don'ts and Do's for Software Developers and Web Designers (Interactive Technologies)_. Morgan Kaufmann, 2000. ISBN: 9781558605824. \[Preview with [Google Books](http://books.google.com/books?id=-kcKpqzbBR0C&pg=Pafrontcover)\]
+Jhonson, Jeff. _GUI Bloopers: Don'ts and Do's for Software Developers and Web Designers (Interactive Technologies)_. Morgan Kaufmann, 2000. ISBN: 9781558605824. \[Preview with {{% resource_link "21bcd091-e626-4494-8a5d-93ce01464677" "Google Books" %}}\]
 
 Card, Stuart K., Thomas P. Moran, and Allen Newell, eds. _The Psychology of Human-Computer Interaction_. Lawrence Erlbaum, 1983. ISBN: 9780898592436.
 
