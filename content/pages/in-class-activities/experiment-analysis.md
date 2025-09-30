@@ -14,9 +14,9 @@ The purpose of this activity is to practice analyzing experiment results by appl
 
 For this activity, you will need to use:
 
-*   [our random data generator](http://courses.csail.mit.edu/6.831/DataGen/ "link will open in a new window or tab");
+*   {{% resource_link "3e65b879-f677-4a2b-9528-d1dc1380ab78" "our random data generator" %}};
 *   a spreadsheet that can accept tab-separated-value data (such as Excel, OpenOffice, or Google Spreadsheet);
-*   [GraphPad's t test calculator](http://www.graphpad.com/quickcalcs/ttest1.cfm?Format=C)
+*   {{% resource_link "5dbe320e-a469-4f3c-ad5e-9766210b8c32" "GraphPad's t test calculator" %}}
 
 The data generator requires two inputs: an experiment and an experimental design. For this activity, we will use the **Point-and-click** experiment, which simulates the time it takes for a user to point and click a particular target on screen using up to three different pointing devices (a mouse, a trackpad, and a trackball). The other input, the experiment design, is a string specifying the conditions and trials made by each user in the experiment.
 

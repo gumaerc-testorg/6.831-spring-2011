@@ -29,7 +29,7 @@ Javascript's events for mouse clicking are click, mousedown, mouseup, and dblcli
 
 ## Mouse Movements
 
-Javascript's event for mouse movement is mousemove. Add a mouse move listener to A, and display the mouse coordinates using print(event.clientX + "," + event.clientY). What origin are these (x,y) positions using? How is this different from the coordinate system used by Java Swing's mouse events? (See MouseEvent in the [Java 1.5 API documentation](http://java.sun.com/j2se/1.5/docs/api/).)
+Javascript's event for mouse movement is mousemove. Add a mouse move listener to A, and display the mouse coordinates using print(event.clientX + "," + event.clientY). What origin are these (x,y) positions using? How is this different from the coordinate system used by Java Swing's mouse events? (See MouseEvent in the {{% resource_link "f59e90fa-113e-4b82-b5e2-8b906b36fa1c" "Java 1.5 API documentation" %}}.)
 
 Now slow down your mouse move listener. (The workbench defines a function sleep(milliseconds) for this purpose; e.g., sleep(500) waits for 500 milliseconds before it returns.) Does the browser coalesce mouse move events? How do you know? Does it coalesce mouse _click_ events?
 

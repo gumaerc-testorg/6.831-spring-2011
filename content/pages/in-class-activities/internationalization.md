@@ -28,14 +28,14 @@ Now type some text into the box labeled Text. What do the other two boxes displa
 
 Now copy the word **été** into the Text box. What do you observe?
 
-Now visit this [Russian Wikipedia page](http://ru.wikipedia.org/wiki/IBM) and copy a word of it into the Text box. What do you observe?
+Now visit this {{% resource_link "e29d4c90-1361-43c0-bb95-a3483dc2a9ea" "Russian Wikipedia page" %}} and copy a word of it into the Text box. What do you observe?
 
-Finally, visit this [Japanese Wikipedia page](http://ja.wikipedia.org/wiki/IBM) and copy a few characters of it into the Text box. What do you observe?
+Finally, visit this {{% resource_link "3bd53950-60fc-487a-bf1f-70921d270d53" "Japanese Wikipedia page" %}} and copy a few characters of it into the Text box. What do you observe?
 
 Bidirectionality
 ----------------
 
-Visit this [Arabic Wikipedia page](http://ar.wikipedia.org/wiki/%D8%A2%D9%8A%E2%80%8C%D8%A8%D9%8A%E2%80%8C%D8%A5%D9%85) or this [Hebrew Wikipedia page](http://he.wikipedia.org/wiki/%D7%99%D7%91%D7%9E). How is the page laid out, relative to other Wikipedia pages?
+Visit this {{% resource_link "2a83e4a0-21b0-4739-9393-030fd77072cd" "Arabic Wikipedia page" %}} or this {{% resource_link "15997b2b-0fcb-4e7d-ae2a-b732f2c01ffa" "Hebrew Wikipedia page" %}}. How is the page laid out, relative to other Wikipedia pages?
 
 Try to understand the effect of bidirectional text on editing by making selections. What happens when you select multiple lines? Notice that the page has English words embedded in it, like "International Business Machines." Make some selections that start in one language and end in the other. What happens?
 

@@ -77,6 +77,6 @@ sec
 
 ### References
 
-- Card, Moran, & Newell, "[The keystroke-level model for user performance time with interactive systems](http://doi.acm.org/10.1145/358886.358895)," *CACM*, July 1980.
+- Card, Moran, & Newell, "{{% resource_link "a7e658ef-9cad-47da-a79a-09e3f8a5acf0" "The keystroke-level model for user performance time with interactive systems" %}}," *CACM*, July 1980.
 - Card, Moran, & Newell, *The Psychology of Human-Computer Interaction*, CRC, 1986.
 - Kieras, David, "Using the Keystroke-Level Model to Estimate Execution Times," 2001.
