@@ -21,12 +21,12 @@ see [http://ocw.mit.edu/fairuse](/fairuse).
 
 The goal of this activity is to explore some of the main structuring patterns of GUI software: the view tree, listeners, and model-view-controller. We'll do it using HTML, Javascript, and jQuery, along with a handy online HTML editor:
 
-- [SquareFree's HTMLEdit](http://htmledit.squarefree.com/)
+- {{% resource_link "7bcdfc76-1e04-40b2-be98-65d927fd86cd" "SquareFree's HTMLEdit" %}}
 
 You'll also need a modern standards-compliant web browser with developer tools installed in it. We recommend either:
 
-- [Google Chrome](http://www.google.com/chrome) (which has developer tools baked in, at View >> Developer >> Developer Tools)
-- [Mozilla Firefox](http://getfirefox.com) (which needs [Firebug](http://getfirebug.com) installed to be useful for development)
+- {{% resource_link "688cdc6c-8e5c-4738-bdc5-6d454828e576" "Google Chrome" %}} (which has developer tools baked in, at View >> Developer >> Developer Tools)
+- {{% resource_link "f345fc14-0f3f-49a3-9972-86cbfeb246de" "Mozilla Firefox" %}} (which needs {{% resource_link "bbd400ac-879b-4c94-9ef9-565eb5699201" "Firebug" %}} installed to be useful for development)
 
 ## Make and Inspect a View Tree
 
@@ -44,10 +44,10 @@ Add jQuery to your web page, which you can do with the following line of code:
 
 Attach an event listener to your Send button that calls console.log() to display the text area's contents in your developer console. You will find it useful to:
 
-- put [id attributes](http://www.w3.org/TR/html401/struct/global.html#h-7.5.2) on your HTML elements
-- use the selector [$("#id")](http://api.jquery.com/id-selector/) to find an element with a particular id
-- use the jQuery [.click()](http://api.jquery.com/click/) method to attach an event handler. (There are also ways to declaratively attach an event handler in the HTML code, such as the onclick attribute, but it's generally better to do it procedurally.)
-- use the jQuery [.val()](http://api.jquery.com/val/) method to get the value of a textarea
+- put {{% resource_link "d036b4ec-0a79-4f6f-88ea-5a8e5d4b04d7" "id attributes" %}} on your HTML elements
+- use the selector {{% resource_link "900bf96e-7a8a-4f1c-835c-c2a0ce34e6d4" "$(\"#id\")" %}} to find an element with a particular id
+- use the jQuery {{% resource_link "5a3070af-ab46-4550-b013-d67729f0e36d" ".click()" %}} method to attach an event handler. (There are also ways to declaratively attach an event handler in the HTML code, such as the onclick attribute, but it's generally better to do it procedurally.)
+- use the jQuery {{% resource_link "043de923-5c50-4756-a0d2-f10960e0486a" ".val()" %}} method to get the value of a textarea
 
 ## Modify the View Tree
 
@@ -70,7 +70,7 @@ Enhance your event listener on the Send button so that it appends the textarea's
 
 There are several ways to do this. You may find the following jQuery methods useful:
 
-- the [.html()](http://api.jquery.com/html/) method to get or set the subtree under a node
-- the [.text()](http://api.jquery.com/text/) method to get or set the text inside a node
-- the [.append()](http://api.jquery.com/append/) method to add children to a node
-- the [$("html")](http://api.jquery.com/jQuery/#jQuery2) function to create a subtree of HTML
+- the {{% resource_link "17f848fe-74c4-4cd1-bde1-dde8bb86accb" ".html()" %}} method to get or set the subtree under a node
+- the {{% resource_link "b3395f0f-a0d9-4114-9fa8-27c53c111ef6" ".text()" %}} method to get or set the text inside a node
+- the {{% resource_link "1a9802fe-5cad-4ed5-b8a1-c9bc44e04b2f" ".append()" %}} method to add children to a node
+- the {{% resource_link "aace0e0f-cb47-4c50-b56d-2d048afa7968" "$(\"html\")" %}} function to create a subtree of HTML
